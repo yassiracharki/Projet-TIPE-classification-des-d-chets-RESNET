@@ -1,6 +1,6 @@
 # Plan :
 
-#picture
+![16](https://github.com/user-attachments/assets/a486d092-561e-4bc2-8a89-df754add0088)
 
 1. Importation des bibliothèques
 2. Fonction de création d'un modèle
