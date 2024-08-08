@@ -13,3 +13,5 @@
 9. Résultats
 10. Évaluation 
 11. Sauvegarde du modèle
+
+Buy Me a Coffee : https://buymeacoffee.com/yassirachag
